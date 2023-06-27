@@ -1,5 +1,5 @@
 # Weather_App
-## A weather app that gives you bunch of useful data.
+## A weather app that gives you a bunch of useful data.
 
 All you need to do is insert your API key in the file "weather_api.py" and then enter your location (city name, state name, neighborhood, etc.) in the application.
 
